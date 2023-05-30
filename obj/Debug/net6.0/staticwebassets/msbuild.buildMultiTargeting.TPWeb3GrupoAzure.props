@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPWeb3GrupoAzure.props" />
+</Project>

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {}
+    "E:\\rodrigo\\Documents\\workspace Angular\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {}
   },
   "projects": {
-    "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {
+    "E:\\rodrigo\\Documents\\workspace Angular\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
+        "projectUniqueName": "E:\\rodrigo\\Documents\\workspace Angular\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
         "projectName": "TPWeb3GrupoAzure",
-        "projectPath": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\obj\\",
+        "projectPath": "E:\\rodrigo\\Documents\\workspace Angular\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
+        "packagesPath": "C:\\Users\\rodrigo\\.nuget\\packages\\",
+        "outputPath": "E:\\rodrigo\\Documents\\workspace Angular\\TPWeb3GrupoAzure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
