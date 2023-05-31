@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {}
+    "C:\\Users\\BANGHO\\Source\\Repos\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {}
   },
   "projects": {
-    "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {
+    "C:\\Users\\BANGHO\\Source\\Repos\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
+        "projectUniqueName": "C:\\Users\\BANGHO\\Source\\Repos\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
         "projectName": "TPWeb3GrupoAzure",
-        "projectPath": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultad\\Web III\\TPWeb3GrupoAzure\\obj\\",
+        "projectPath": "C:\\Users\\BANGHO\\Source\\Repos\\TPWeb3GrupoAzure\\TPWeb3GrupoAzure.csproj",
+        "packagesPath": "C:\\Users\\BANGHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BANGHO\\Source\\Repos\\TPWeb3GrupoAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BANGHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
